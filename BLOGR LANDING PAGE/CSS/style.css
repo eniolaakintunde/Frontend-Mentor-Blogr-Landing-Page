@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+    font-family: "Altone","inter","Lucida sans",Calibri,Tahoma,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+}
+
+
+ul{
+    list-style: none;
+}
+.img{
+    text-decoration-color: palevioletred;
+}
+h1{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    color:white;
+}
+p{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+img{
+    max-width: 20%;
+}
+.container{
+    margin: auto;
+    max-width: 1100px;
+    background-color:hsl(13, 100%, 72%)
+}
+.nav-links1{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
+
+.nav-links1 li{
+    cursor: pointer;
+    color: white;
+}
+.nav-links1 li:hover{
+   color: black; 
+}  
+
+.nav-links1 button{
+    width: 150px;
+    cursor: pointer;
+    font-weight: 700;
+    color: hsl(356, 100%, 66%);
+    background-color: white;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    border: 2px;
+   
+}
+.nav-links1 button:hover{
+    color:hsl(355, 100%, 74%)
+}
+.btn1 button{
+    text-align: center;
+    cursor: pointer;
+    color: hsl(356, 100%, 66%);
+    justify-content: center;
+}
+
+.container2 p{
+    color: black;
+}
+.container2 h1{
+    color:black;
+}
+.container4 p{
+    color:black;
+}
+.container4 h1{
+    color: black;
+}
+.wrapper{
+    
+    height: 40rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0;
+    margin: 0 64px;
+}
+.container8 p{
+    color:black;
+}
+.container8 h1{
+    color: black;
+}
+.wrapper2{
+    
+    height: 40rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0;
+    margin: 0 32px;
+}
+.container6{
+    background-color: hsl(237, 23%, 32%);
+    max-width: 1100px;
+    margin:300px;
+}
+.container11 p{
+    color:black;
+}
+.container11 h1{
+    color: black;
+}
+.container9{
+    background-color: white;
+    max-width: 1100px;
+    margin:300px;
+}
+.nav-links2{
+    display: table-row;
+    align-items: center;
+    
+}
+.nav-links2 li{
+    cursor: pointer;
+    color: white;
+}
+.nav-links2 h1{
+    color: white;
+    cursor: pointer;
+}
+.container12{
+    background-color: hsl(237, 23%, 32%);
+    max-width: 1100px;
+    gap: 20px;
+
+}
+.nav-links3{
+    display: table-row;
+    align-items: center;
+    
+}
+.nav-links3 li{
+    cursor: pointer;
+    color: white;
+}
+.nav-links3 h1{
+    color: white;
+    cursor: pointer;
+}
+.nav-links4{
+    display: table-row;
+    align-items: center;
+    
+}
+.nav-links4 li{
+    cursor: pointer;
+    color: white;
+}
+.nav-links4 h1{
+    color: white;
+    cursor: pointer;
+}
+.container5 img{
+    max-width: 100%;
+}
+.container7 img{
+    max-width: 100%;
+}
+.container10 img{
+    max-width: 100%;
+}
